@@ -1,0 +1,11 @@
+Model Information:
+* title:	F-35A Lightning II
+* source:	https://sketchfab.com/3d-models/f-35a-lightning-ii-a06d6113cfb44a0aa7b8f17106aca9c4
+* author:	shangus930 (https://sketchfab.com/shangus930)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "F-35A Lightning II" (https://sketchfab.com/3d-models/f-35a-lightning-ii-a06d6113cfb44a0aa7b8f17106aca9c4) by shangus930 (https://sketchfab.com/shangus930) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

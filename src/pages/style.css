@@ -1,0 +1,169 @@
+.scenarios {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.scenarios .div {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1231px;
+  overflow: hidden;
+  position: relative;
+  width: 2491px;
+}
+
+.scenarios .overlap {
+  height: 1239px;
+  left: -2px;
+  position: absolute;
+  top: -8px;
+  width: 2500px;
+}
+
+.scenarios .overlap-group {
+  height: 1239px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2500px;
+}
+
+.scenarios .image {
+  height: 1231px;
+  left: 2px;
+  position: absolute;
+  top: 8px;
+  width: 2491px;
+}
+
+.scenarios .rectangle {
+  background: linear-gradient(180deg, rgba(23, 55, 83, 0.53) 0%, rgba(23, 55, 83, 0) 100%);
+  height: 404px;
+  left: 0;
+  position: absolute;
+  top: 835px;
+  width: 2496px;
+}
+
+.scenarios .text-wrapper {
+  color: #ffffff;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 98px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 878px;
+  width: 2316px;
+}
+
+.scenarios .rectangle-2 {
+  background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 40px;
+  height: 139px;
+  left: 186px;
+  position: absolute;
+  top: 962px;
+  width: 680px;
+}
+
+.scenarios .text-wrapper-2 {
+  color: #000000;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 244px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 985px;
+  width: 563px;
+}
+
+.scenarios .rectangle-3 {
+  background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 40px;
+  height: 139px;
+  left: 1671px;
+  position: absolute;
+  top: 962px;
+  width: 680px;
+}
+
+.scenarios .text-wrapper-3 {
+  color: #000000;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 1729px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 985px;
+  width: 563px;
+}
+
+.scenarios .arrow {
+  height: 22px;
+  left: 2493px;
+  position: absolute;
+  top: 554px;
+  width: 1px;
+}
+
+.scenarios .rectangle-4 {
+  background-color: #d9d9d9;
+  border-radius: 20px;
+  height: 101px;
+  left: 2371px;
+  position: absolute;
+  top: 0;
+  width: 129px;
+}
+
+.scenarios .line {
+  height: 5px;
+  left: 2391px;
+  position: absolute;
+  top: 31px;
+  width: 77px;
+}
+
+.scenarios .img {
+  height: 5px;
+  left: 2391px;
+  position: absolute;
+  top: 53px;
+  width: 77px;
+}
+
+.scenarios .line-2 {
+  height: 6px;
+  left: 2392px;
+  position: absolute;
+  top: 76px;
+  width: 77px;
+}
+
+.scenarios .arrow-2 {
+  height: 22px;
+  left: 2493px;
+  position: absolute;
+  top: 491px;
+  width: 1px;
+}
+
+.scenarios .rectangle-5 {
+  height: 94px;
+  left: -7640px;
+  position: absolute;
+  top: 488px;
+  width: 126px;
+}
