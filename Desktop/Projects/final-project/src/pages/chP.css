@@ -1,0 +1,64 @@
+.background-color {
+    background: linear-gradient(200deg,  #2892D7, #173353, #1B4353);
+  min-height: 100vh;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.button{
+  position: absolute;
+  width: 250px; 
+  height: 60px; 
+  font-size: 24px; 
+  bottom : 0px;
+  left : 45%;
+  background-color:  FFFFF;
+  border-radius: 20px;
+}
+
+.right-Button{
+  position: absolute;
+  width: 250px; 
+  height: 60px; 
+  font-size: 24px; 
+  bottom : 0px;
+  left : 45%;
+  background-color:  FFFFF;
+  border-radius: 20px;
+
+}
+
+
+
+.right-col {
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+  position: relative;
+  bottom: -250px;
+}
+
+.bannerMessage{
+  display : flex;
+  justify-content: left;
+  text-decoration : white;
+
+}
+.left-banner {
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+  border-radius: 20px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+
+}
+
+.left-col{
+ display: flex; 
+  justify-content: center; 
+  align-items: center;
+  position: relative;
+  bottom: -250px;
+}
